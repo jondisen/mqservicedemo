@@ -11,7 +11,7 @@ The broker service name can be changed [here](https://github.com/fabric8io/ipaas
 This example will connect to the A_MQ message broker and send messages to a queue TEST.FOO
 
 
-### Building
+### Building the project mqservicedemo
 
 The example can be built with
 
